@@ -8,6 +8,7 @@ namespace SoftServe.Chessboard
     {
 
         // ToDo: add XML documentation
+        // ToDo: add instraction
 
         static void Main(string[] args)
         {

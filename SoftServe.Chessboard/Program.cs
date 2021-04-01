@@ -23,7 +23,7 @@ namespace SoftServe.Chessboard
             }
             else
             {
-                Printers.Printer<string>.PrintInstraction(instractionPath);
+                Printer<string>.PrintInstraction(instractionPath);
                 return;
             }
 

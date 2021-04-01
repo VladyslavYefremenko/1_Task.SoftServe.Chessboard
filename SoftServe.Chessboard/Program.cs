@@ -1,5 +1,7 @@
 ﻿using System;
 
+using Printers;
+
 namespace SoftServe.Chessboard
 {
     class Program
@@ -12,6 +14,8 @@ namespace SoftServe.Chessboard
             int highField;
             int weightField;
 
+            const string instractionPath = "..\\..\\..\\..\\instraction.txt";
+
             if (FieldValidator.IsValidField(args))
             {
                 highField = int.Parse(args[0]);
@@ -19,7 +23,7 @@ namespace SoftServe.Chessboard
             }
             else
             {
-                PrinterInstraction.PrintInstraction();
+                Printers.Printer<string>.PrintInstraction(instractionPath);
                 return;
             }
 

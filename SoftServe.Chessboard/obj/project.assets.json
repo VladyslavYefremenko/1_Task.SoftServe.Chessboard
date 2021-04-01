@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NoApple\\Desktop\\SoftServe\\1_SoftServe.Chessboard\\SoftServe.Chessboard\\SoftServe.Chessboard.csproj",
+      "projectUniqueName": "C:\\Users\\NoApple\\Desktop\\GitHub\\1_Task.SoftServe.Chessboard\\SoftServe.Chessboard\\SoftServe.Chessboard.csproj",
       "projectName": "SoftServe.Chessboard",
-      "projectPath": "C:\\Users\\NoApple\\Desktop\\SoftServe\\1_SoftServe.Chessboard\\SoftServe.Chessboard\\SoftServe.Chessboard.csproj",
+      "projectPath": "C:\\Users\\NoApple\\Desktop\\GitHub\\1_Task.SoftServe.Chessboard\\SoftServe.Chessboard\\SoftServe.Chessboard.csproj",
       "packagesPath": "C:\\Users\\NoApple\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NoApple\\Desktop\\SoftServe\\1_SoftServe.Chessboard\\SoftServe.Chessboard\\obj\\",
+      "outputPath": "C:\\Users\\NoApple\\Desktop\\GitHub\\1_Task.SoftServe.Chessboard\\SoftServe.Chessboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

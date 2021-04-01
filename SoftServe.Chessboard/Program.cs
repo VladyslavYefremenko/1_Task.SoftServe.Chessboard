@@ -4,6 +4,9 @@ namespace SoftServe.Chessboard
 {
     class Program
     {
+
+        // ToDo: add XML documentation
+
         static void Main(string[] args)
         {
             int highField;

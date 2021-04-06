@@ -1,0 +1,11 @@
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\obj\Debug\SoftServe.ChessboardView.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\obj\Debug\SoftServe.ChessboardView.csprojAssemblyReference.cache
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\bin\Debug\SoftServe.ChessboardView.exe.config
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\bin\Debug\SoftServe.ChessboardView.exe
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\bin\Debug\SoftServe.ChessboardView.pdb
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\bin\Debug\SoftServe.Chessboard.dll
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\bin\Debug\SoftServe.Chessboard.pdb
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\bin\Debug\SoftServe.Chessboard.dll.config
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\obj\Debug\SoftServe.ChessboardView.csproj.CopyComplete
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\obj\Debug\SoftServe.ChessboardView.exe
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.ChessboardView\obj\Debug\SoftServe.ChessboardView.pdb

@@ -1,0 +1,6 @@
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.Chessboard\obj\Debug\SoftServe.Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.Chessboard\bin\Debug\SoftServe.Chessboard.dll.config
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.Chessboard\bin\Debug\SoftServe.Chessboard.dll
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.Chessboard\bin\Debug\SoftServe.Chessboard.pdb
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.Chessboard\obj\Debug\SoftServe.Chessboard.dll
+C:\Users\NoApple\Desktop\Temp\1_Task.SoftServe.Chessboard\SoftServe.Chessboard\obj\Debug\SoftServe.Chessboard.pdb

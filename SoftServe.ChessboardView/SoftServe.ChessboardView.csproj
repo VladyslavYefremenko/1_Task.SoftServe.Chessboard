@@ -46,21 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Consts\DefaultChars.cs" />
-    <Compile Include="Consts\SizeConsts.cs" />
     <Compile Include="Controllers\BoardController.cs" />
     <Compile Include="Interfaces\IBoardController.cs" />
-    <Compile Include="Interfaces\IFieldValidator.cs" />
     <Compile Include="Interfaces\IPrinter.cs" />
     <Compile Include="Interfaces\IPrinterBoard.cs" />
-    <Compile Include="Interfaces\IValidators.cs" />
     <Compile Include="Models\Printer.cs" />
     <Compile Include="Models\PrinterBoard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
-    <Compile Include="Validators\FieldValidator.cs" />
-    <Compile Include="Validators\Validators.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

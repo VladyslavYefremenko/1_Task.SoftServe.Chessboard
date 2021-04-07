@@ -14,11 +14,11 @@ namespace SoftServe.ChessboardView
                 {
                     if (chessboard.BoardField[i, j].GetType() == typeof(BlackCell))
                     {
-                        Console.Write(DefaultChars.BLACK_CELL);
+                        Console.Write(DefaultSetting.BLACK_CELL);
                     }
                     else
                     {
-                        Console.Write(DefaultChars.WHITE_CELL);
+                        Console.Write(DefaultSetting.WHITE_CELL);
                     }
                 }
 

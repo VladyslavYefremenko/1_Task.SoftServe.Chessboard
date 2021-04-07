@@ -1,6 +1,6 @@
-﻿namespace SoftServe.ChessboardView
+﻿namespace SoftServe.Chessboard
 {
-    class Validators : IValidators
+    public class Validators : IValidators
     {
         public bool ArgsIsEmpty(string[] args)
         {

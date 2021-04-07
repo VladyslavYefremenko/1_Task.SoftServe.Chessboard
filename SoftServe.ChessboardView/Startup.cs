@@ -1,5 +1,7 @@
 ﻿using System;
 
+using SoftServe.Chessboard;
+
 namespace SoftServe.ChessboardView
 {
     class Startup
@@ -9,19 +11,19 @@ namespace SoftServe.ChessboardView
             int highField = 0;
             int weightField = 0;
 
-            const string instractionPath = "..\\..\\..\\instraction.txt";
 
-            FieldValidator fieldValidator = new FieldValidator();
             Printer printer = new Printer();
 
-            if (fieldValidator.IsValidField(args))
+            FieldValidator validator = new FieldValidator();
+
+            if (validator.IsValidField(args))
             {
                 highField = int.Parse(args[0]);
                 weightField = int.Parse(args[1]);
             }
             else
             {
-                printer.PrintInstraction(instractionPath);
+                printer.PrintInstraction(DefaultSetting.instractionPath);
                 Console.ReadKey();
                 return;
             }

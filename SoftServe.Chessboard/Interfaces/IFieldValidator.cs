@@ -1,4 +1,4 @@
-﻿namespace SoftServe.ChessboardView
+﻿namespace SoftServe.Chessboard
 {
     interface IFieldValidator
     {

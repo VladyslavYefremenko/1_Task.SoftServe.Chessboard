@@ -63,7 +63,6 @@
   <ItemGroup>
     <Compile Include="Consts\DefaultSetting.cs" />
     <Compile Include="Enums\ColorEnum.cs" />
-    <Compile Include="Interfaces\ICell.cs" />
     <Compile Include="Interfaces\IFieldValidator.cs" />
     <Compile Include="Interfaces\IValidators.cs" />
     <Compile Include="Models\Cells\BlackCell.cs" />

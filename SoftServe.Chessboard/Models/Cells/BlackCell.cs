@@ -2,6 +2,6 @@
 {
     public class BlackCell : Cell
     {
-        private ColorEnum.CellColors cellColors = ColorEnum.CellColors.Black;
+        public override ColorEnum.CellColors CellColor { get => ColorEnum.CellColors.Black; }
     }
 }
